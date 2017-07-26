@@ -1,4 +1,5 @@
 #爬虫，知乎图片
+#来自简书-李大白很黑-http://www.jianshu.com/p/cb1d05527335
 import os
 import re
 import requests
